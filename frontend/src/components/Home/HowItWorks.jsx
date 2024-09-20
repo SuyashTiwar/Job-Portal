@@ -15,7 +15,7 @@ const HowItWorks = () => {
               <p>Create Account</p>
               <p>
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Consequuntur, culpa.
+                Consequuntur.
               </p>
             </div>
             <div className="card">
@@ -23,7 +23,7 @@ const HowItWorks = () => {
               <p>Find a Job/Post a Job</p>
               <p>
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Consequuntur, culpa.
+                Consequuntur.
               </p>
             </div>
             <div className="card">
@@ -31,7 +31,7 @@ const HowItWorks = () => {
               <p>Apply For Job/Recruit Suitable Candidates</p>
               <p>
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Consequuntur, culpa.
+                Consequuntur.
               </p>
             </div>
           </div>

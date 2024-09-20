@@ -80,7 +80,7 @@ const Application = () => {
           />
           <input
             type="number"
-            placeholder="Your Phone Number"
+            placeholder="Phone Number"
             value={phone}
             onChange={(e) => setPhone(e.target.value)}
           />
@@ -99,7 +99,7 @@ const Application = () => {
             <label
               style={{ textAlign: "start", display: "block", fontSize: "20px" }}
             >
-              Select Resume
+            Select Resume
             </label>
             <input
               type="file"
